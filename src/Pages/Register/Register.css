@@ -1,0 +1,67 @@
+.kawologo{
+	width: 40%;
+}
+.navbar {
+    position: relative;
+    min-height: 130px;
+    margin-bottom: 0px;
+    border: 1px solid transparent;
+    border-radius: 0px;
+}
+.navbar-nav > li > a {
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+.navbar-right {
+    margin-right: 30px;
+    margin-top: 35px;
+}
+.navbar-default {
+    background-color: #842e2b;
+    border-color: none;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #f3eded;
+}
+body {
+    font-size: 18px;
+}
+.register{
+    border: 1px solid #fff;
+    padding-top: 50px;
+}
+.navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.foot{
+    margin-top: 10px;
+    background-color: #842e2b;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    color: #fff;
+    padding-left: 100px;
+}
+.sociallinks{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 12px;
+}
+.sociallinks >li >a{
+    color: white;
+}
+.kawo3{
+    margin: 20px;
+    margin-left: 30px;
+}
+.kawo3 >.row >h2{
+    margin-bottom: 30px;
+    margin-left: 140px;
+}
+.form-group{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.form{
+    margin-bottom: 10px;
+}
