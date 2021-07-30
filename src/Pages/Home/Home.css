@@ -1,0 +1,84 @@
+.kawologo{
+	width: 40%;
+}
+.navbar {
+    position: relative;
+    min-height: 130px;
+    margin-bottom: 0px;
+    border: 1px solid transparent;
+    border-radius: 0px;
+}
+.navbar-nav > li > a {
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+.navbar-right {
+    margin-right: 30px;
+    margin-top: 35px;
+}
+.navbar-default {
+    border-color: none;
+    background-color: none;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #f3eded;
+}
+.frontimg {
+    padding-bottom: 200px;
+    background: url("../Images/scott-graham-5fNmWej4tAA-unsplash.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center; 
+    height: 650px;
+    background-blend-mode: overlay;
+    background-color: #842e2bc7;
+}
+body {
+    font-size: 18px;
+}
+.home{
+	border: 1px solid #fff;
+    padding-top: 50px;
+}
+.navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.opacity{
+   
+    height: 650px;
+   
+}
+.jumbotext{
+    padding-top: 80px;
+    color: #fff;
+}
+.head{
+    font-size: 50px;
+}
+.text{
+    font-size: 20px;
+}
+.foot{
+    margin-top: 10px;
+    background-color: #842e2b;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    color: #fff;
+    padding-left: 100px;
+}
+.btn{
+    background-color: deepskyblue;
+    border:none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.sociallinks{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 12px;
+}
+.sociallinks >li >a{
+    color: white;
+}
