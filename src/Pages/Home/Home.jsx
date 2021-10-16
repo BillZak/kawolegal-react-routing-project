@@ -46,7 +46,7 @@ const Home = () => {
                     </div>
                 </nav>
                 
-                
+            
                         <div className="jumbotext">
                             <h1 className="head">KAWOLEGAL</h1>
                             <p className="text">A collaborative ecosystem for problem solvers and support for startups.</p>
