@@ -44,6 +44,7 @@ const Startup = () => {
 		  </div>
 	  </nav>
       
+	  
       <div className="container">
 	  <div className="input-group searchbar">
 		  <input type="text" className="form-control" placeholder="Search Startup by name or industry" aria-describedby="basic-addon2"/>
