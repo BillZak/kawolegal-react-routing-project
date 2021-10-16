@@ -58,6 +58,7 @@ const Login = () => {
                 </form>
             </div>
 
+
             <div className="container-fluid foot">
                 <div className="row">
                     <div className="col-md-6"><p>&#169; 2017 KawoLegal.All Rights Reserved</p></div>
